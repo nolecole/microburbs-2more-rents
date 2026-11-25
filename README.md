@@ -9,7 +9,7 @@ Microburbs Hackathon, 7 November 2026, **Task 4**. Weekly asking rent for every 
 | Pitch (≤ 45 s) | `pitch.mp4` |
 | Demo (≤ 3 min) | `demo.mp4` |
 
-**Live links:** [Report](https://hairyrambe.github.io/microburbs-2more-rents/report.html) · [Rent explorer demo (fictional flats)](https://hairyrambe.github.io/microburbs-2more-rents/rent-explorer-demo.html)
+**Live links:** [Report](https://nolecole.github.io/microburbs-2more-rents/report.html) · [Rent explorer demo (fictional flats)](https://nolecole.github.io/microburbs-2more-rents/rent-explorer-demo.html)
 
 ## Results
 Every check re-runs the exact submission pipeline as if the date were the cut-off (history and model from earlier adverts only, input-flat records, same rounding and parking rule), then scores the later adverts.
